@@ -1,2 +1,3 @@
 # Artifical-Intelligence
-Artifical Intelligence AI
+Bùi Vũ Long
+19146205
